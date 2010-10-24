@@ -1,0 +1,32 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+
+	<g:HTMLPanel>
+	 <table>
+	   <tr>
+	     <th>URI</th>
+	     <td ui:field="uri"></td>
+	   </tr>
+     <tr>
+       <th>Username</th>
+       <td ui:field="username"></td>
+     </tr>
+     <tr>
+       <th>First Name</th>
+       <td><g:TextBox ui:field="firstName" /></td>
+     </tr>
+     <tr>
+       <th>Last Name</th>
+       <td><g:TextBox ui:field="lastName" /></td>
+     </tr>
+     <tr>
+       <th>Email Address</th>
+       <td><g:TextBox ui:field="email" /></td>
+     </tr>
+	 </table>
+		<g:Button ui:field="save">Save</g:Button>
+		<g:Button ui:field="cancel">Cancel</g:Button>
+	</g:HTMLPanel>
+
+</ui:UiBinder> 

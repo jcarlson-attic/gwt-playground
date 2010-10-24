@@ -1,0 +1,74 @@
+[
+    {
+        details: {
+            email: "jarrod.carlson@playonsports.com",
+            firstName: "Jarrod",
+            lastName: "Carlson"
+        },
+        uri: "/users/foobar",
+        username: "foobar"
+    },
+    {
+        details: {
+            email: "jarrod.carlson@playonsports.com",
+            firstName: "Foo",
+            lastName: "Bar"
+        },
+        uri: "/users/foobar1",
+        username: "foobar1"
+    },
+    {
+        details: {
+            email: "jarrod.carlson@playonsports.com",
+            firstName: "Foo",
+            lastName: "Bar"
+        },
+        uri: "/users/foobar2",
+        username: "foobar2"
+    },
+    {
+        details: {
+            email: "jarrod.carlson@playonsports.com",
+            firstName: "Jarrod",
+            lastName: "Carlson"
+        },
+        uri: "/users/jcarlson",
+        username: "jcarlson"
+    },
+    {
+        details: {
+            email: "jarrod.carlson@playonsports.com",
+            firstName: "Jarrod",
+            lastName: "Carlson"
+        },
+        uri: "/users/jctest",
+        username: "jctest"
+    },
+    {
+        details: {
+            email: "joe.morris@playonsports.com",
+            firstName: "Joe",
+            lastName: "Morris"
+        },
+        uri: "/users/jmorris",
+        username: "jmorris"
+    },
+    {
+        details: {
+            email: "nick.padgett@playonsports.com",
+            firstName: "Nick",
+            lastName: "Padgett"
+        },
+        uri: "/users/npadgett",
+        username: "npadgett"
+    },
+    {
+        details: {
+            email: "nick.padgett@playonsports.com",
+            firstName: "Nick",
+            lastName: "Padgett"
+        },
+        uri: "/users/npadgetttest",
+        username: "npadgetttest"
+    }
+]
